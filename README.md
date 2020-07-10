@@ -1,4 +1,4 @@
-## Deep Learing Projects
+## PyTorch skeleton code for Image Classifiers and LSTMs for Language Models
 
 1. Simple PyTorch CNN
 
@@ -20,6 +20,7 @@
   * Used RESNET 50 Create a CNN to Classify Dog Breeds (using Transfer Learning)
 
   * Test Accuracy: 78% (656/836)
+  
 3. Creating Scripts
 
   * `dlnd_tv_script_generation.ipynb`
