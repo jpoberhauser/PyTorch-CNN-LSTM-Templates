@@ -30,3 +30,9 @@
   * Using Seinfield TV Scripts, build an LSTM that generates new scripts for the show.
 
   * Loss: 3.8495764718055727
+
+4. Implementing a u-Net in Pytorch
+
+  * source: https://www.youtube.com/watch?v=u1loyDCoGbE
+  
+  
